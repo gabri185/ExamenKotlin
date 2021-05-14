@@ -1,11 +1,8 @@
-fun miembro(longitud: Int){
+fun miembro(){
 
-    /*
-    nombres.filter{
-
-        nombres[1].length == longitud
+    arrayRan.filter{
+        arrayRan.size %2 != 0
     }.forEach{
         println(it)
     }
-*/
 }
