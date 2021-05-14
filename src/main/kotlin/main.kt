@@ -1,4 +1,5 @@
 fun main(args: Array<String>) {
-    println("Hello World!")
-    tabla6
+    tabla6.forEach{
+        println("6*${it/6} = ${it}")
+    }
 }
