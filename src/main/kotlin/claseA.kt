@@ -1,0 +1,1 @@
+val tabla6 = Array<Int>( 11, {it * 6 }  )
